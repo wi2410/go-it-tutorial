@@ -38,6 +38,6 @@
 
 // var-2 ???
 // const result = a;
-// a.splice(3, 2, "a", "b", "c");
+// a.splice(3, 3, "a", "b", "c");
 
 // console.log(result); // ["a", "b", "c", "a", "b", "c", "g", "h"]
