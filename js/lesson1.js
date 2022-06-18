@@ -30,8 +30,14 @@
 // Task 3
 // Реалізуйте result
 // const a = ["a", "b", "c", "d", "e", "f", "g", "h"];
+
+// var-1
 // const firstA = a.slice(0, 3);
 // const secondA = a.slice(-2)
 // const result = firstA.concat(firstA, secondA)
+
+// var-2 ???
+// const result = a;
+// a.splice(3, 2, "a", "b", "c");
 
 // console.log(result); // ["a", "b", "c", "a", "b", "c", "g", "h"]
