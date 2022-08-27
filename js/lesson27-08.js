@@ -1,3 +1,5 @@
+
+// task 2
 // // Реалізуйте функціонал пошуку даних по юзеру з API при сабміті форми і виведення їх на сторінку
 // // https://agify.io/
 
@@ -20,3 +22,11 @@ function renderMarkup({name, age}) {
 function getName(name) {
     return fetch(`https://api.agify.io?name=${name}`).then(res => res.json());
 }
+
+// task 3
+// // Реалізуйте функціонал створення зображень при клікові на кнопку BUTTON
+// // https://dog.ceo/dog-api/
+
+// task 4
+// // Отримати дані рандомного юзера і вивести їх на сторінку
+// // https://randomuser.me/api/
